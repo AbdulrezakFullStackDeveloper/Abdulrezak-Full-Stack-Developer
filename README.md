@@ -8,7 +8,6 @@
 </p>
 
 ---
-
 ### 🚀 Skills & Technologies
 
 <p align="center">
